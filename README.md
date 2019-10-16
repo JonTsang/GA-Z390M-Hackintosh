@@ -3,7 +3,7 @@ Hackintosh EFI (GIGABYTE Z390 M GAMING + i7 8700K + RX590)
 
 ## macOS版本
 
-**macOS Catalina 10.15 19A602 **
+**macOS Catalina 10.15 19A602**
 
 ## BootLoader
 
@@ -87,3 +87,9 @@ Hackintosh EFI (GIGABYTE Z390 M GAMING + i7 8700K + RX590)
 
 
 ![](https://raw.githubusercontent.com/JonTsang/Figurebed/master/img/Snipaste_2019-10-16_20-19-53.png)
+
+
+
+
+
+持续更新...
