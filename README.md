@@ -55,7 +55,7 @@ Hackintosh EFI (GIGABYTE Z390 M GAMING + i7 8700K + RX590)
 - Chipset
   - Vt-d → **Disabled**
   - Internal Graphics → **Enabled**
-  - DVMT Pre-Alloc → **64M**
+  - DVMT Pre-Alloc → **128M**
   - DVMT Total Gfx Mem → **256M**
   - Audio Controller → **Enabled**
   - Above 4G Decoding → **Enabled**
