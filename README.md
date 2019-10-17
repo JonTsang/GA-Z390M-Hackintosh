@@ -78,16 +78,27 @@ Hackintosh EFI (GIGABYTE Z390 M GAMING + i7 8700K + RX590)
 
 ## 待完善：
 
-- Apple Watch 可解锁App，无法解锁Mac（曾有过一段时间可以解锁Mac，但不知道后来又设置了什么导致无法解锁了）
+- Apple Watch 可解锁App，解锁Mac时有时失败
 - 没有第六代以上iPad ，所以随航（Sidecar）功能未测试
-- 仍然使用OsxAptioFix2Drv-free2000.efi，使用计算slide值的方法似乎也没用，等有空再解决
+- 仍然使用OsxAptioFix2Drv-free2000.efi，使用计算slide值的方法似乎也没用，过段时间再试试
 
 
 
-![](https://raw.githubusercontent.com/JonTsang/Figurebed/master/img/Snipaste_2019-10-16_20-19-53.png)
+![](https://raw.githubusercontent.com/JonTsang/Figurebed/master/img/20191017232419.png)
 
+![](https://raw.githubusercontent.com/JonTsang/Figurebed/master/img/20191017232443.png)
 
+![](https://raw.githubusercontent.com/JonTsang/Figurebed/master/img/20191017232749.png)
+
+![](https://raw.githubusercontent.com/JonTsang/Figurebed/master/img/20191017232809.png)
 
 
 
 持续更新中...
+
+
+
+##  参考
+
+[黑果小兵的部落阁](https://blog.daliansky.net/)
+[tonymacx86 Installation Guide](https://www.tonymacx86.com/threads/unibeast-install-macos-mojave-on-any-supported-intel-based-pc.259381/)
