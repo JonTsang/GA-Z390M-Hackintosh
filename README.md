@@ -32,8 +32,6 @@ Hackintosh EFI (GIGABYTE Z390 M GAMING + i7 8700K + RX590)
 ## BIOS
 **BIOS版本：F7**
 
-- Save & Exit
-  - Load Optimized Defaults then make (or confirm) the following settings -- important settings in **bold**:
 - M.I.T.
   - Extreme Memory Profile (X.M.P.) → **Profile 1**
 - BIOS
@@ -41,7 +39,7 @@ Hackintosh EFI (GIGABYTE Z390 M GAMING + i7 8700K + RX590)
   - CSM Support → **Disabled**
   - Secure Boot → **Disabled**
 - Peripherals
-  - Initial Display Output → PCIe Slot 1. If your discrete graphics card is in Slot 2, change this appropriately.
+  - Initial Display Output → PCIe Slot 1（根据自己的显卡插的位置选择）
   - Intel Platform Trust Technology (PTT) → **Disabled**
   - Thunderbolt(TM) Configuration
     - TBT Vt-d Base Security → **Disabled**
@@ -77,10 +75,10 @@ Hackintosh EFI (GIGABYTE Z390 M GAMING + i7 8700K + RX590)
 - 隔空投送
 - 接力
 - 独显硬件加速
-- Apple Watch 解锁
 
 ## 待完善：
 
+- Apple Watch 可解锁App，无法解锁Mac（曾有过一段时间可以解锁Mac，但不知道后来又设置了什么导致无法解锁了）
 - 没有第六代以上iPad ，所以随航（Sidecar）功能未测试
 - 仍然使用OsxAptioFix2Drv-free2000.efi，使用计算slide值的方法似乎也没用，等有空再解决
 
@@ -92,4 +90,4 @@ Hackintosh EFI (GIGABYTE Z390 M GAMING + i7 8700K + RX590)
 
 
 
-持续更新...
+持续更新中...
