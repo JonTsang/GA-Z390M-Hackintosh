@@ -101,4 +101,5 @@ Hackintosh EFI (GIGABYTE Z390 M GAMING + i7 8700K + RX590)
 ##  参考
 
 [黑果小兵的部落阁](https://blog.daliansky.net/)
+
 [tonymacx86 Installation Guide](https://www.tonymacx86.com/threads/unibeast-install-macos-mojave-on-any-supported-intel-based-pc.259381/)
