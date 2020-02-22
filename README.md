@@ -83,7 +83,7 @@ Hackintosh EFI (GIGABYTE Z390 M GAMING + i7 8700K + RX590)
 
 - 无法使用Apple Watch解锁Mac，但可以可解锁App。
 
-![](https://raw.githubusercontent.com/JonTsang/Figurebed/master/img/20191017232419.png)
+![](https://raw.githubusercontent.com/JonTsang/Figurebed/master/img/20200222224250.png)
 
 ![](https://raw.githubusercontent.com/JonTsang/Figurebed/master/img/20191017232443.png)
 
