@@ -1,13 +1,15 @@
 # Gigabyte Z390M Gaming Hackintosh
 Hackintosh EFI (GIGABYTE Z390 M GAMING + i7 8700K + RX590)
 
+更新日期：（2020-02-22）
+
 ## macOS版本
 
-**macOS Catalina 10.15 19A602**
+**macOS Catalina 10.15.3(19D76)**
 
 ## BootLoader
 
-**Clover_v2.5k_r5073**
+**Clover_v2.5k_r5104**
 
 ## 配置
 

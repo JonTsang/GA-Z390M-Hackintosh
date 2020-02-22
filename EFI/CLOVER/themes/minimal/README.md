@@ -1,9 +1,7 @@
 # Clover Minimal Theme
 A clean theme for [the Clover UEFI bootloader](http://sourceforge.net/projects/cloverefiboot), based off [rEFInd-minimal by Evan Purkhiser](https://github.com/EvanPurkhiser/rEFInd-minimal).
 
-Changed the background of Catalina
-
-![](https://raw.githubusercontent.com/JonTsang/Figurebed/master/img/20191017222531.png)
+![Screenshot of the theme](http://i.imgbox.com/4gssLdSI.png)
 
 ### Installation
 Clone or download the ZIP of this repo to your Clover theme directory (usually in /EFI/CLOVER/themes, located on the EFI system partition). Then, edit your Clover config.plist to select the theme.
