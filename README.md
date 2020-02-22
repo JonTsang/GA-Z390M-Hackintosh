@@ -1,4 +1,5 @@
 # Gigabyte Z390M Gaming Hackintosh
+
 Hackintosh EFI (GIGABYTE Z390 M GAMING + i7 8700K + RX590)
 
 更新日期：（2020-02-22）
@@ -80,11 +81,7 @@ Hackintosh EFI (GIGABYTE Z390 M GAMING + i7 8700K + RX590)
 
 ## 待完善：
 
-- Apple Watch 可解锁App，解锁Mac时有时失败
-- 没有第六代以上iPad ，所以随航（Sidecar）功能未测试
-- 仍然使用OsxAptioFix2Drv-free2000.efi，使用计算slide值的方法似乎也没用，过段时间再试试
-
-
+- 无法使用Apple Watch解锁Mac，但可以可解锁App。
 
 ![](https://raw.githubusercontent.com/JonTsang/Figurebed/master/img/20191017232419.png)
 
@@ -93,12 +90,6 @@ Hackintosh EFI (GIGABYTE Z390 M GAMING + i7 8700K + RX590)
 ![](https://raw.githubusercontent.com/JonTsang/Figurebed/master/img/20191017232749.png)
 
 ![](https://raw.githubusercontent.com/JonTsang/Figurebed/master/img/20191017232809.png)
-
-
-
-持续更新中...
-
-
 
 ##  参考
 
