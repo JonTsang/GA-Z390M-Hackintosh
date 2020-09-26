@@ -2,15 +2,15 @@
 
 Hackintosh EFI (GIGABYTE Z390 M GAMING + i7 8700K + RX590)
 
-更新日期：（2020-02-22）
+更新日期：（2020-09-26）
 
 ## macOS版本
 
-**macOS Catalina 10.15.3(19D76)**
+**macOS Catalina 10.15.6(19G2021)**
 
 ## BootLoader
 
-**Clover_v2.5k_r5104**
+**Clover_v2.5k_r5122**
 
 ## 配置
 
@@ -78,10 +78,6 @@ Hackintosh EFI (GIGABYTE Z390 M GAMING + i7 8700K + RX590)
 - 隔空投送
 - 接力
 - 独显硬件加速
-
-## 待完善：
-
-- 无法使用Apple Watch解锁Mac，但可以可解锁App。
 
 ![](https://raw.githubusercontent.com/JonTsang/Figurebed/master/img/20200222224250.png)
 
